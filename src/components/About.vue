@@ -2,7 +2,7 @@
 
 </script>
 <template>
-    <div class="md:flex justify-center mx-auto md:space-x-10 p-2 -mt-40 md:-mt-32 md:w-2/3 w-11/12 rounded-xl">
+    <div class="md:flex justify-center mx-auto md:space-x-10 p-2 -mt-32 md:-mt-32 md:w-2/3 w-11/12 rounded-xl">
         <div class="text md:p-5">
             <h1 class="p-5 text-5xl font-bold">Who We are</h1>
             <p class="p-6 text-sm">Praesent ultrices, sapien sit amet pharetra blandit, nibh nisi auctor tellus, at mollis
