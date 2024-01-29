@@ -23,7 +23,7 @@
                 src="https://t4.ftcdn.net/jpg/05/51/69/95/360_F_551699573_1wjaMGnizF5QeorJJIgw5eRtmq5nQnzz.jpg">
             <div class="text bg-red-600 text-white p-3 rounded-tl-3xl -translate-x-10 -translate-y-12 w-fit">
                 <h1 class="text-xl font-bold">Call Us now</h1>
-                <p class="text-lg">+1(222)222-1188</p>
+                <p class="text-lg">+1(222)-222-1188</p>
             </div>
         </div>
 
