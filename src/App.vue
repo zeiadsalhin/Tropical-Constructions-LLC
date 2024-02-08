@@ -54,7 +54,7 @@ function m() {
     <!-- <div class="bar"></div> -->
     <header class=" flex justify-center space-x-20 text-black bg-gray-200 hiddenm">
       <div class="flex justify-start">
-        <div class="flex justify-start mr-96"><img alt="logo" class="logo" width="90" height="100" src="/logo.svg">
+        <div class="flex justify-start mr-96"><img alt="logo" class="logo -m-5" width="160" height="100" src="/logo.svg">
         </div>
 
         <div class="my-auto">
@@ -90,6 +90,9 @@ function m() {
     <div class="opacity-0 flex-col justify-center text-5xl md:mb-20 mb-52 text-center text-white font-bold">
       <button class="hover:bg-transparent"><img alt="logo" class="logo" src="" width="70" height="90" /></button>
     </div>
+
+  </div>
+  <div class="main">
     <About />
     <Features />
     <Liner />
@@ -106,6 +109,10 @@ function m() {
   background: linear-gradient(0deg, rgba(0, 0, 0, 3), rgba(0, 0, 0, 0.6)), url('https://wallpapers.com/images/hd/civil-engineering-construction-site-blueprint-0x148xb5hbkabmqu.jpg') no-repeat center;
   background-size: cover;
 
+}
+
+.main {
+  height: 80vh;
 }
 
 .router-link-exact-active div {
